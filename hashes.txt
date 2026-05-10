@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Game
+
+This log tracks the cryptographic history and versioning for the song **Game** (game).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T05:08:14.765084 | `v1` | `451938d4adfee7391ea1869f4f56a4b2a561c3eaff1752431116326a1239d3bc` | `96a31504dd3f791cf42f65124d98c8abbb326ef0551c9913fa9f937748c995a1` | `2026-05-11_game-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
