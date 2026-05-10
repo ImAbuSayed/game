@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/game/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Game](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/game/) |
+| **Get License** | [Get a Licensing Quote for Game](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/game/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নেশার ঘোরে আঁধার রাতে তোমার ছায়া খুঁজি
+> উষ্ণ এই মায়াতে আজ দুচোখ আমি বুজি
+> হৃদয়ের এই শূন্যতায় তুমিই প্রেমের আলো
+> সব আড়াল খুলে দিয়ে বাসো আমায় ভালো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
